@@ -14,8 +14,8 @@ service:
   - key: a
     value: A
   repositories:
-  - name: maxim-opslevel/A4/some/directory
-    path: "/"
+  - name: maxim-opslevel/A4
+    path: "/some/directory"
     provider: github
   tools:
   dependencies:
