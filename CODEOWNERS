@@ -24,4 +24,4 @@
 /wpf/**   @adegeo
 
 # Windows forms areas:
-/windowsforms/** @adegeo @dotnet/dotnet-winformsa
+/windowsforms/** @adegeo @dotnet/dotnet-winforms
