@@ -3,7 +3,7 @@ version: 1
 service:
   name: A4
   lifecycle:
-  tier: tier_3
+  tier: tier_4
   product:
   owner:
   language:
