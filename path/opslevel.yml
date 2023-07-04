@@ -1,0 +1,21 @@
+---
+version: 1
+service:
+  name: A4
+  lifecycle:
+  tier: tier_1
+  product:
+  owner:
+  language:
+  framework:
+  description:
+  aliases:
+  tags:
+  - key: a
+    value: a
+  repositories:
+  - name: maxim-opslevel/A4
+    path: "/path"
+    provider: github
+  tools:
+  dependencies:
